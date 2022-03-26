@@ -1,0 +1,14 @@
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.exe
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.deps.json
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.runtimeconfig.json
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.runtimeconfig.dev.json
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.dll
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.pdb
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.csproj.AssemblyReference.cache
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.AssemblyInfoInputs.cache
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.AssemblyInfo.cs
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.dll
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.pdb
+C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.genruntimeconfig.cache
