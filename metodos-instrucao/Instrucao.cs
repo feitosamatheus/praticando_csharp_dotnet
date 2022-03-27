@@ -6,7 +6,9 @@ namespace trabalhando_csharp_dotnet.metodos_instrucao
 {
     internal class Instrucao
     {
-        static void Declaracoes()
+
+        //Nesta classe coloco em prata conceitos de logica de programação 
+        public static void Declaracoes()
         {
             int a;
             int b = 2, c = 3;
@@ -14,8 +16,7 @@ namespace trabalhando_csharp_dotnet.metodos_instrucao
             a = 1;
             Console.WriteLine(a+b+c+d); 
         }
-
-        static void InstrucaoIf(string[] arr)
+        public static void InstrucaoIf(string[] arr)
         {
             if(arr.Length == 0)
             {
@@ -26,7 +27,7 @@ namespace trabalhando_csharp_dotnet.metodos_instrucao
                 Console.WriteLine("A array não esta vazia");
             }
         }
-        static void InstrucaoSwitch(string[] arr)
+        public static void InstrucaoSwitch(string[] arr)
         {
             switch (arr.Length)
             {
@@ -40,7 +41,7 @@ namespace trabalhando_csharp_dotnet.metodos_instrucao
                     break;
             }
         }
-        static void InstrucaoWhile(string[] arr)
+        public static void InstrucaoWhile(string[] arr)
         {
             int i = 1;
 
@@ -50,28 +51,28 @@ namespace trabalhando_csharp_dotnet.metodos_instrucao
                 i++;
             }
         }
-        static void InstrucaoDo(string[] arr)
+        public static void InstrucaoDo()
         {
             do
             {
                 Console.WriteLine("Imprimiu antes do False");
             } while (false);
         }
-        static void InstrucaoFor(string[] arr)
+        public static void InstrucaoFor(string[] arr)
         {
             for(int i = 0; i < arr.Length; i++)
             {
                 Console.WriteLine(arr[i]);
             }
         }
-        static void InstrucaoForeach(string[] arr)
+        public static void InstrucaoForeach(string[] arr)
         {
             foreach(string s in arr)
             {
                 Console.WriteLine(s);
             }
         }
-        static void InstrucaoBreak(string[] arr)
+        public static void InstrucaoBreak(string[] arr)
         {
             int i = 0;
 
@@ -85,6 +86,8 @@ namespace trabalhando_csharp_dotnet.metodos_instrucao
                 }
             }
         }
+
+ 
     
     }
 }
