@@ -7,7 +7,7 @@ namespace trabalhando_csharp_dotnet.metodos
         static void Main(string[] args)
         {
             Aluno[] alunos = new Aluno[5];
-            Metodos ins = new Metodos();
+            Metodos meto = new Metodos();
 
             string opcaoUsuario = obterRespostaUsuario();
             var indexAluno = 0;
@@ -18,18 +18,18 @@ namespace trabalhando_csharp_dotnet.metodos
                 {
                     case "1":
 
-                        alunos[indexAluno] = ins.AdicionaItemArray(alunos, indexAluno);
+                        alunos[indexAluno] = meto.AdicionaItemArray(alunos, indexAluno);
                         indexAluno++;
 
                         break;
                     case "2":
 
-                        ins.pecorrendoArray(alunos);
+                        meto.pecorrendoArray(alunos);
                        
                         break;
                     case "3":
 
-                        ins.retornaMedia(alunos);
+                        meto.retornaMedia(alunos);
 
                         break;
                     default:

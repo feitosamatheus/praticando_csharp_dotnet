@@ -12,3 +12,17 @@ C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csha
 C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.dll
 C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.pdb
 C:\Users\matheus.freitas\source\repos\trabalhando_csharp_dotnet\trabalhando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.genruntimeconfig.cache
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.exe
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.deps.json
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.runtimeconfig.json
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.runtimeconfig.dev.json
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.dll
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\bin\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.pdb
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.csproj.AssemblyReference.cache
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.AssemblyInfoInputs.cache
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.AssemblyInfo.cs
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.dll
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.pdb
+C:\Users\Matheus Feitosa\Documents\csharp\praticando_csharp_dotnet\obj\Debug\netcoreapp3.1\trabalhando_csharp_dotnet.genruntimeconfig.cache

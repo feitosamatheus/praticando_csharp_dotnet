@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus.freitas\\source\\repos\\trabalhando_csharp_dotnet\\trabalhando_csharp_dotnet\\trabalhando_csharp_dotnet.csproj": {}
+    "C:\\Users\\Matheus Feitosa\\Documents\\csharp\\praticando_csharp_dotnet\\trabalhando_csharp_dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus.freitas\\source\\repos\\trabalhando_csharp_dotnet\\trabalhando_csharp_dotnet\\trabalhando_csharp_dotnet.csproj": {
+    "C:\\Users\\Matheus Feitosa\\Documents\\csharp\\praticando_csharp_dotnet\\trabalhando_csharp_dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus.freitas\\source\\repos\\trabalhando_csharp_dotnet\\trabalhando_csharp_dotnet\\trabalhando_csharp_dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Feitosa\\Documents\\csharp\\praticando_csharp_dotnet\\trabalhando_csharp_dotnet.csproj",
         "projectName": "trabalhando_csharp_dotnet",
-        "projectPath": "C:\\Users\\matheus.freitas\\source\\repos\\trabalhando_csharp_dotnet\\trabalhando_csharp_dotnet\\trabalhando_csharp_dotnet.csproj",
-        "packagesPath": "C:\\Users\\matheus.freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus.freitas\\source\\repos\\trabalhando_csharp_dotnet\\trabalhando_csharp_dotnet\\obj\\",
+        "projectPath": "C:\\Users\\Matheus Feitosa\\Documents\\csharp\\praticando_csharp_dotnet\\trabalhando_csharp_dotnet.csproj",
+        "packagesPath": "C:\\Users\\Matheus Feitosa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus Feitosa\\Documents\\csharp\\praticando_csharp_dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matheus.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matheus Feitosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
