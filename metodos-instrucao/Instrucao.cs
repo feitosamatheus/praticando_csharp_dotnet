@@ -7,7 +7,7 @@ namespace trabalhando_csharp_dotnet.metodos_instrucao
     internal class Instrucao
     {
 
-        //Nesta classe coloco em prata conceitos de logica de programação 
+        //Nesta classe coloco em pratica conceitos basicos de logica de programação 
         public static void Declaracoes()
         {
             int a;
